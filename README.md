@@ -12,5 +12,6 @@ Then it's what you need!
 
 1. Download it
 2. Move ./dist/dropoff to ckditorfolder/plugins
-3. Add into ckeditor config.js at config.extraPlugins this plugins which is called "dropoff", like this config.extraPlugins = 'mypreviousplugin,dropoff'
-4. Be Happy!
+3. Locate ckeditor "config.js"
+4. Put "dropoff" on config.extraPlugins, like this config.extraPlugins = 'mypreviousplugin,dropoff'
+5. Be Happy!
